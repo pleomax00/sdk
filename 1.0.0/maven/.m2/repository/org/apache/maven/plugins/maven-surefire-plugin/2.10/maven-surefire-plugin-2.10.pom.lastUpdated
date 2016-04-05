@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 14 15:52:42 IST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1457950962881
+https\://api.bintray.com/maven/wigzo/Wigzo_Android_Sdks/Wigzo_android_sdk/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.10 from/to bintray-wigzo-Wigzo_Android_Sdks (https\://api.bintray.com/maven/wigzo/Wigzo_Android_Sdks/Wigzo_android_sdk)\: Not authorized , ReasonPhrase\:Unauthorized.
+default-https\://api.bintray.com/maven/wigzo/Wigzo_Android_Sdks/Wigzo_android_sdk/.lastUpdated=1457950962281

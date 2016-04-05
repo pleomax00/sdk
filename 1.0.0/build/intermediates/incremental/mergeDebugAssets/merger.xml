@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/wigzo/Android/android_workspace/wigzo_mobile_stack/Testing App/sdk/src/main/assets"/></dataSet><dataSet config="debug"><source path="/home/wigzo/Android/android_workspace/wigzo_mobile_stack/Testing App/sdk/src/debug/assets"/></dataSet></merger>
