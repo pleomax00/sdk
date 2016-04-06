@@ -41,7 +41,7 @@ public class ConnectionProcessorWigzoApp implements Runnable {
     }
 
     URLConnection mobileEventData(final String eventData) throws IOException {
-        String urlStr = "http://vikram.wigzoes.com/mobile/events/i?";
+        String urlStr = "https://app.wigzo.com/mobile/events/i?";
         Log.d("server url: ", urlStr);
         // if(!eventData.contains("&crash="))
         urlStr += eventData;
